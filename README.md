@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Marcelo
 - 👀 I’m interested in Technology and programming
 - 🌱 I’m currently learning systems development at SENAC school
-- 💞️ I’m looking to collaborate on Estou procurando colaborar em projetos de informação e aprimoramento de minhas capacidades
+- 🔧 Backend applications in API RESTful pattern with NodeJS + Express + Typescript + TypeORM + Relational Databases (SQL)
+- 💞️ i'am looking to collaborate on information projects and enhance my capabilities
 - 📫 How to reach me: marcelo.candido@live.com
 
 <!---
